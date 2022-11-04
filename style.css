@@ -1,0 +1,55 @@
+/**
+Theme Name: Astra Child
+Author: Brainstorm Force
+Author URI: http://wpastra.com/about/
+Description: Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with schema.org code integrated so search engines will love your site. Astra offers plenty of sidebar options and widget areas giving you a full control for customizations. Furthermore, we have included special features and templates so feel free to choose any of your favorite page builder plugin to create pages flexibly. Some of the other features: # WooCommerce Ready # Responsive # Compatible with major plugins # Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained & Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and beautiful theme!
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: astra-child
+Template: astra
+*/
+
+.bg-black{
+    background-color: black!important;
+    padding-bottom: 20px;
+}
+.elementor-heading-title{
+    color: white!important;
+    font-size: 60px!important;
+}
+
+.elementor-column-gap-default > .elementor-column > .elementor-element-populated{
+    padding: 0!important;
+}
+
+.first-video-desc{
+    background-color: rgb(24, 24, 24)!important;
+    padding-top: 10px!important;
+    padding-bottom: 10px!important;
+}
+.first-video-desc *{
+    color: white!important;
+}
+.first-video-desc .elementor-divider-separator{
+    border-color: white!important;
+}
+
+.cinema{
+    background-color: #3A583C!important;
+    color: white!important;
+}
+.cinema *{
+    color: white!important;
+}
+
+.cinemagraph img{
+    object-fit: cover;
+    width: 580px!important;
+    height: 580px!important;
+}
+
+.disturbia-title{
+    font-family: "Cristone"!important;
+}
+
